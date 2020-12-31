@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edu on tetsuyanh.github.io</title>
+    <link>https://tetsuyanh.github.io/categories/edu/</link>
+    <description>Recent content in Edu on tetsuyanh.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 20 Jan 2019 21:46:03 +0900</lastBuildDate>
+    
+	<atom:link href="https://tetsuyanh.github.io/categories/edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CoderDojoの初メンター参加</title>
+      <link>https://tetsuyanh.github.io/blog/2019/01-20/</link>
+      <pubDate>Sun, 20 Jan 2019 21:46:03 +0900</pubDate>
+      
+      <guid>https://tetsuyanh.github.io/blog/2019/01-20/</guid>
+      <description>子供向けの無料プログラミング教室CoderDojoに初めて参加してきました。
+CoderDojoについてはこちらで詳しく。
+首都圏はたくさんあって、神奈川県も増えて来て現在13箇所。 今日行ったのは、都合が合った近くの新羽で、月一のペースで開催されていて22回目。 題材として扱っているのはScratchのみ。 カリキュラムを付きっ切りで教えるのではなく、あくまで子供たち主体で作って、分からないところはメンターに聞く流れです。
+プログラミングというかIT周りが「情報」という必須教科に近々なりますし、 子供のプログラミングへの興味や取り組み方に興味がありました。 この日来ていた家族は4組。 3組は初心者で、お父さんお母さんと相談しながらやってました。
+1組だけ熟練の小四の女の子がいて、お母さんはすぐ抜けてお買い物？に行った様子。 少し画面を見せてもらって話すと、なんと凝ったスゴロクゲームを作っていました。 スプラッシュ画面があったり、キャラが吹き出しで喋って説明してくれたり。 ゲーム性に加えて絵本や物語を作るイメージもあるようでした。 リッチなゲームを作ろうとしてたので、すごくシンプルなものから作るようにアドバイスしました。
+そして、その子にインスパイアされて自分もスゴロクゲームを作ってみました。 どうにか最低限の形にしたので全世界に公開ですw PCのスペースキーが前提だから、スマホのタップだと動かないのかな・・。
+
+Scratchは最近version3がリリースされてタブレット対応されたようです。 また来月あたり参加する予定なのでレポートします。</description>
+    </item>
+    
+  </channel>
+</rss>

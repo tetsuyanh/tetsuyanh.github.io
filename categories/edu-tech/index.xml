@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edu/Tech on tetsuyanh.github.io</title>
+    <link>https://tetsuyanh.github.io/categories/edu-tech/</link>
+    <description>Recent content in Edu/Tech on tetsuyanh.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 24 Feb 2019 23:55:29 +0900</lastBuildDate>
+    
+	<atom:link href="https://tetsuyanh.github.io/categories/edu-tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CoderDojoのメンター参加2回目</title>
+      <link>https://tetsuyanh.github.io/blog/2019/02-24/</link>
+      <pubDate>Sun, 24 Feb 2019 23:55:29 +0900</pubDate>
+      
+      <guid>https://tetsuyanh.github.io/blog/2019/02-24/</guid>
+      <description>CoderDojoの港北NTに参加してきました。2回目のメンター参加となります。 （初めて参加した前回はこちら）
+港北NTのDojoは昨年の冬に始まってまだ3回目ですが、チャンピオンの方が、Scratch/micro:bit/プロトタイピング練習の環境、と複数用意されていて色々触れることができました。
+残念ながら、お子さんの参加数が少なく、ほぼメンターらしき活動はできなかったです。connpassだけだと、どうしてもリーチは少ないですね。ただ、noteなどブログはたくさん発信されており、私は参考にたくさん読ませていただきました。皆さんもぜひ参考にしてください。
+https://note.mu/coding
+チャンピオンの方としっかりお話することができました。プログラミング教育は、義務化だけど教科にはならないそうです。年に数回やるだけとで、設備費用も乏しいため、人が声に出して演算を読み上げる人プログラミングや紙に書くプログラミングになりそうとか。なんだそれ・・・。子供や先生方の指導を相互でサポートするために、CoderDojoとみんなのコードが連携していくことも聞きました。
+自分ができること、色々ありそうです。引き続き、子供×プログラミングに注視していきます。</description>
+    </item>
+    
+  </channel>
+</rss>
