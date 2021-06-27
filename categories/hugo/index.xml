@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on tetsuyanh.github.io</title>
+    <link>https://tetsuyanh.github.io/categories/hugo/</link>
+    <description>Recent content in Hugo on tetsuyanh.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sat, 19 Jan 2019 18:35:09 +0900</lastBuildDate>
+    
+	<atom:link href="https://tetsuyanh.github.io/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>個人サイトの日本語対応</title>
+      <link>https://tetsuyanh.github.io/blog/2019/01-19/</link>
+      <pubDate>Sat, 19 Jan 2019 18:35:09 +0900</pubDate>
+      
+      <guid>https://tetsuyanh.github.io/blog/2019/01-19/</guid>
+      <description>この個人サイトにhugoという静的サイトジェネレータを採用して、幾つかブログを書いてきたけど文字サイズやレイアウトが割とひどかった。
+シンプルなテンプレが良いと思いこのhugo-goaを選んだものの足りないところは色々あって、とりあえず以下を対応した。forkして欲しいものを積みつつ本家は追従する形。
+ TwitterCard 日本語のfont対応とfontサイズ調整  無難にWeb-fontのNotoに。   Webフロントの基礎から勉強している感じでちょうど良い。 あと先日、このテンプレの小さなバグ修正PRも取り込んでもらったり。
+良い感じの個人サイトにしていきます。</description>
+    </item>
+    
+    <item>
+      <title>個人サイトの技術</title>
+      <link>https://tetsuyanh.github.io/blog/2019/01-04/</link>
+      <pubDate>Fri, 04 Jan 2019 23:47:33 +0900</pubDate>
+      
+      <guid>https://tetsuyanh.github.io/blog/2019/01-04/</guid>
+      <description>hugoという静的ジェネレータを使ってみてる。
+hugo-goaというシンプルなテンプレを採用した。
+privateなrepoでブログを書いてmasterコミットすると、CIでgithub.ioに自動更新。
+エンジニアは割とやってるお得な個人サイト運営。
+TravisCIで始めたけど高すぎるので昨日CircleCIの無料枠に変更した。
+TwitterCardも今日対応した。
+はてなとかでやってればやらなくていいことだけど。</description>
+    </item>
+    
+  </channel>
+</rss>
